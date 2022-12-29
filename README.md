@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **3142akay@gmail.com**
 
-- ⚡ Fun fact **"I Do Astral Photograhy"**
+- ⚡ Fun fact **I Do Astral Photograhy**
 
 
                        
