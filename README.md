@@ -38,7 +38,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en" alt="3142akay" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&theme=great-gatsby" alt="3142akay" />
+
+<img width="0" src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en" />
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=3142akay&" alt="3142akay" /></p>
 
@@ -58,9 +60,6 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
 
 
 
