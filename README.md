@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/3142akay" target="blank"><img src="https://img.shields.io/twitter/follow/3142akay?logo=twitter&style=for-the-badge" alt="3142akay" /></a> </p>
 
-- 🌱 I’m currently learning **java,webdevlopment**
+- 🌱 I’m currently learning : **java,webdevlopment**
 
-- 👨‍💻 All of my projects are available at [3142akay](3142akay)
+- 👨‍💻 All of my projects are available at: [3142akay](3142akay)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about: **python**
 
-- 📫 How to reach me **3142akay@gmail.com**
+- 📫 How to reach me: **3142akay@gmail.com**
 
-- ⚡ Fun fact **I Do Astral Photograhy**
+- ⚡ Fun fact: **I Do Astral Photograhy**
 
 
                        
