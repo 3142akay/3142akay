@@ -68,19 +68,11 @@
 
 
 
+<h3 align="left">Snake eating my graph:</h3>
 
 
 
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 
