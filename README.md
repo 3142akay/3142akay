@@ -92,7 +92,7 @@
  src="https://github-readme-streak-stats.herokuapp.com/?user=3142akay&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"
 
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="3142akay" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="3142akay">
 
 <img width="0" src="https://github-readme-stats.vercel.app/api?username=3142akay">
  </p>
