@@ -1,7 +1,10 @@
-  <h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>
-
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/ShivamRathore07)
+<br/>
+<br/>
+ <h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="coding" width="600" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+<img align="right" alt="coding" width="400" height="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/ShivamRathore07)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3142akay&label=Profile%20views&color=0e75b6&style" alt="3142akay" /> </p>
 
@@ -17,31 +20,73 @@
 
 - ⚡ Fun fact: **I Do Astral Photograhy**
 
+<br>
 
+
+
+<h2 align="center" border="0">My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h2>
+
+<br>
                        
                        
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/3142akay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3142akay" height="40" width="60" /></a>
-<a href="https://linkedin.com/in/aman kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar" height="40" width="60" /></a>
-<a href="https://instagram.com/3142_akay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3142_akay" height="40" width="60" /></a>
+
+  
+  
+
+
+
+
+
+
+
+
+
+<p>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+
+
+
+
+</p>
+<br>
+<hr>
+
+<h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aman kumar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/3142_akay"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+<hr />
+
+
+<h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+  
+
+  
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3142akay&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="3142akay" /></p>
+
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="3142akay" />
+
+<img width="0" src="https://github-readme-stats.vercel.app/api?username=3142akay" />
+
+  
+ <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=3142akay&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"/></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="50"/> </a> </p>
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3142akay&show_icons=true&locale=en&layout=compact=true&theme=great-gatsby" alt="3142akay" /></p>
-
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&theme=great-gatsby" alt="3142akay" />
-
-<img width="0" src="https://github-readme-stats.vercel.app/api?username=3142akay&show_icons=true&locale=en" />
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=3142akay&show=true&theme=great-gatsby" alt="3142akay" /></p>
 
 
 
@@ -61,12 +106,13 @@
 
 
 
-![d86b54b83cea8c149c98de9a2ef87f0b](https://user-images.githubusercontent.com/117672208/210095007-15f6ad05-e25d-4c6f-8abe-11e236db900c.gif)
 
 
 
 
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 
 
 
