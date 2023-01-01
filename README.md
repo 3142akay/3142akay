@@ -3,7 +3,7 @@
 <br/>
  <h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3142akay&label=Profile%20views&color=0e75b6&style" alt="3142akay" /> </p>
