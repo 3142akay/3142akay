@@ -96,7 +96,7 @@
       <br>Django
     </td>
      <td align="center" width="98">
-         <img src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" alt="icon" width="89" height="55" />
+         <img src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif?compress=1&resize=752x" alt="icon" width="84" height="75" />
        <br>github                                                                                             
      </td>
       
