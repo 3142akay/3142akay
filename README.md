@@ -95,8 +95,8 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="89" height="55" />
       <br>Django
     </td>
-     <td align="center" width="98">
-         <img src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif?compress=1&resize=752x" alt="icon" width="84" height="75" />
+     <td align="center" width="88">
+         <img src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif?compress=1&resize=752x" alt="icon" width="80" height="63"  />
        <br>github                                                                                             
      </td>
       
