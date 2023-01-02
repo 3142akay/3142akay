@@ -77,38 +77,34 @@
 
  <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="86">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" height="55" />
       <br>C#
      </td>
-     <td align="center" width="96">
+     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="55" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="86">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="55" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="86">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="55" />
       <br>Django
     </td>
-     <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+     <td align="center" width="86">
+         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="55" />
        <br>github                                                                                             
      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <td align="center" width="86">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="55" />
         <br>java 
      </td>
      
-   <td align="center"  width="96">
+   <td align="center"  width="86">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
