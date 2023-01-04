@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3142akay&label=Profile%20views&color=0e75b6&style" alt="3142akay" /> </p>
 
-<p align="left"><em> <a href="https://twitter.com/3142_akay" target="blank"><img src="https://img.shields.io/twitter/follow/3142_akay?logo=twitter&style=for-the-badge" alt="3142akay" /></a> </p>
+<p align="left"><em> <a href="https://twitter.com/itachi_3142" target="blank"><img src="https://img.shields.io/twitter/follow/itachi_3142?logo=twitter&style=for-the-badge" alt="itachi_3142" /></a> </p>
 
  - 🌱 ***I’m currently learning*** :  *java,webdevlopment*
 
