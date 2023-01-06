@@ -77,48 +77,48 @@
 
  ***<table>***
   <tr>
-    <td align="center" width="98">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="89" height="55" />
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="89" height="60" />
       <br>C#
      </td>
-     <td align="center" width="98">
+     <td align="center" width="90">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="55" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="60" />
       </a>
       <br>Python
     </td>
-   <td align="center" width="98">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="89" height="55" />
+   <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="89" height="60" />
         <br>java 
      </td>
-    <td align="center" width="98">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="89" height="55" />
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="89" height="60" />
       <br>Django
     </td>
-     <td align="center" width="98">
+     <td align="center" width="90">
          <img src="https://cdn-icons-png.flaticon.com/128/2111/2111374.png" alt="icon" width="90" height="65"  />
        <br>github                                                                                             
      </td>
       
      
-   <td align="center"  width="98">
+   <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-   <td align="center" width="98">
+   <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-   <td align="center"  width="98">
+   <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-   <td align="center" width="98">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="55" />
+   <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="60" />
       <br>Javascript
     </td>
-  <td align="center" width="98">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="55" />       
+  <td align="center" width="90">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
      <br>SQL  
       </td>
   
