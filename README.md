@@ -96,7 +96,7 @@
       <br>Django
     </td>
      <td align="center" width="90">
-         <img src="https://cdn-icons-png.flaticon.com/128/2111/2111374.png" alt="icon" width="100" height="65"  />
+         <img src="https://cdn-icons-png.flaticon.com/128/2111/2111374.png" alt="icon" width="110" height="60"  />
        <br>github                                                                                             
      </td>
       
