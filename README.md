@@ -1,4 +1,5 @@
-<img align="centre" alt="wallpaper" width="2000" height="300" src="https://r4.wallpaperflare.com/wallpaper/955/421/134/artistic-alpha-coders-blue-robot-hd-wallpaper-5806ad5810a0ecd8807c117e5882548a.jpg" />
+<img align="centre" alt="wallpaper" width="2000" height="280" src="https://r4.wallpaperflare.com/wallpaper/955/421/134/artistic-alpha-coders-blue-robot-hd-wallpaper-5806ad5810a0ecd8807c117e5882548a.jpg" />
+
 
 ***<h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>***
 ***<h3 align="center">A passionate fullstack developer</h3>***
