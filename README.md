@@ -117,10 +117,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="55" />
       <br>Javascript
     </td>
- 
-
-  
-  
+  <td align="center" width="98">
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="55" />       
+     <br>SQL  
+      </td>
   
 
 
