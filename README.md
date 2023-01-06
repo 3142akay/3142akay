@@ -1,4 +1,6 @@
- ***<h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>***
+<img align="centre" alt="wallpaper" width="2000" height="400" src="https://r4.wallpaperflare.com/wallpaper/955/421/134/artistic-alpha-coders-blue-robot-hd-wallpaper-5806ad5810a0ecd8807c117e5882548a.jpg" />
+
+***<h1 align="center">Hello 🌟🌃, I'm Aman kumar</h1>***
 ***<h3 align="center">A passionate fullstack developer</h3>***
 <img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <br>
