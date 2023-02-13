@@ -78,8 +78,8 @@
  ***<table>***
   <tr>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="89" height="60" />
-      <br>C#
+        <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="89" height="80" />
+      <br>C
      </td>
      <td align="center" width="90">
       <a href="#macropower-tech">
