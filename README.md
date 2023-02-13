@@ -78,7 +78,7 @@
  ***<table>***
   <tr>
     <td align="center" width="90">
-        <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="89" height="80" />
+        <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="79" height="60" />
       <br>C
      </td>
      <td align="center" width="90">
