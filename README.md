@@ -13,13 +13,11 @@
 
  - 🌱 ***I’m currently learning*** :  *java,webdevlopment*
 
-- 👨‍💻 ***All of my projects are available at***: [3142akay](3142akay)
-
 - 💬 ***Ask me about***: *python*
 
 - 📫 ***How to reach me***: *3142akay@gmail.com*
 
-- ⚡ ***Fun fact***: *I Do Astral Photograhy*
+
 
 
 
