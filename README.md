@@ -11,7 +11,7 @@
 
 <p align="left"><em> <a href="https://twitter.com/itachi_3142" target="blank"><img src="https://img.shields.io/twitter/follow/itachi_3142?logo=twitter&style=for-the-badge" alt="itachi_3142" /></a> </p>
 
- - 🌱 ***I’m currently learning*** :  *java,webdevlopment*
+ - 🌱 ***I’m currently learning*** :  *java , webdevlopment , Google Cloud*
 
 - 💬 ***Ask me about***: *python*,*My SQL*
 
