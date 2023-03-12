@@ -13,7 +13,7 @@
 
  - 🌱 ***I’m currently learning*** :  *java,webdevlopment*
 
-- 💬 ***Ask me about***: *python*
+- 💬 ***Ask me about***: *python*,*My SQL*
 
 - 📫 ***How to reach me***: *3142akay@gmail.com*
 
