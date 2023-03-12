@@ -79,7 +79,7 @@
  ***<table>***
   <tr>
     <td align="center" width="90">
-        <img src="https://media1.giphy.com/avatars/Caribshopper/VUy16LKWPSMF.gif" alt="icon" width="90" height="80" />
+        <img src="https://media1.giphy.com/avatars/Caribshopper/VUy16LKWPSMF.gif" alt="icon" width="75" height="80" />
       <br>C
      </td>
      <td align="center" width="90">
