@@ -122,7 +122,10 @@
        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
      <br>SQL  
       </td>
-  
+  <td align="centre" width="90">
+   <img src="https://cdn.dribbble.com/users/1144777/screenshots/7202365/googlecloud.gif" alt="icon" width="89" height="60" />
+   <br>GoolgeCloud
+   </td>
 
 
 
