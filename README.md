@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/3142_akay"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://twitter.com/3142akay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="https://www.cloudskillsboost.google/public_profiles/bce0eeab-f5ee-47ad-9e22-67fe88ed3c87"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" width="123" height="30"></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/bce0eeab-f5ee-47ad-9e22-67fe88ed3c87"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" width="122" height="30"></a>
  
 
 
