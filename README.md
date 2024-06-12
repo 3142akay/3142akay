@@ -89,11 +89,8 @@
       </a>
       <br>Python
     </td>
+   
    <td align="center" width="90">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="89" height="60" />
-        <br>java 
-     </td>
-     <td align="center" width="90">
          <img src="https://cdn-icons-png.flaticon.com/128/2111/2111374.png" alt="icon" width="110" height="60"  />
        <br>github                                                                                             
      </td>
